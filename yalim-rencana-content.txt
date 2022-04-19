@@ -1,0 +1,6 @@
+RENCANA KONTEN YALIM
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Vlogs
